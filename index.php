@@ -58,16 +58,24 @@
 
         <section>
             <h2>Bermain dengan Git</h2>
-            <p>Ada tahapanya :</p>
+            <p>Ada tahapanya , pake git bash yaaa, blum punya? install git:</p>
             <ol>
-                <li>Buat repo <b>git init</b> jadi branch main/master </li>
+                <li>Konfigurasi dulu: samain dengan akun github</li>
+                <ul>
+                    <li>git config --global user.email "you@example.com"</li>
+                    <li>git config --global user.name "Nama Kamu"</li>
+                </ul>
+                <li>Buat repo <b>git init</b> jadi branch main/master
+                    dgn cara masuk ke folder yang ingin dijadiin repo</li>
                 <li>Lihat status nya <b>git status</b> , ada yang belum ditrack</li>
-                <li>Simpan ke staging area
-                    <ul>
-                        <li><b>git add <i>namafile</i></b></li>
-                        <li><b>git add . </b> untuk semua file yg di projek</li>
-                    </ul>
-                </li>
+                <li>Simpan ke staging area </li>
+                <ul>
+                    <li><b>git add <i>namafile</i></b></li>
+                    <li><b>git add . </b> untuk semua file yg di projek</li>
+                </ul>
+
+                <li>Silahkan lihat git status lagi</li>
+                <li>lakukan commit</li>
             </ol>
         </section>
 
