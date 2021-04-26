@@ -74,8 +74,12 @@
                     <li><b>git add . </b> untuk semua file yg di projek</li>
                 </ul>
 
-                <li>Silahkan lihat git status lagi</li>
-                <li>lakukan commit</li>
+                <li>Silahkan lihat git status lagi kalau mau</li>
+                <li>lakukan commit <b>git commit -m "pesan commit"</b></li>
+                <li>kalau ada yg berubah lagi, statusnya M (Modified)</li>
+                <li>jadi harus add dulu, baru commit</li>
+                <li>tapi bisa langsung 22nya <b>git commit -am "pesan"</b></li>
+
             </ol>
         </section>
 
