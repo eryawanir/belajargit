@@ -82,16 +82,22 @@
 
             </ol>
 
-
+            <h4>bikin graph</h4>
+            <p> alias graph="git log --all --decorate --oneline --graph"</p>
             <h3>Bikin Branch</h3>
-            <ul>
+            <ol>
                 <li><b>git branch namabranch</b></li>
-            </ul>
+                <li>hapus branch <b>git branch -d namabranch</b></li>
+            </ol>
 
             <h3>Bikin Merge</h3>
             <ol>
-                <li>gatau</li>
+                <li>pindah ke main</li>
+                <li>git merge namabranch</li>
             </ol>
+
+
+
 
         </section>
 
