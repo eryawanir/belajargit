@@ -81,8 +81,13 @@
                 <li>tapi bisa langsung 22nya <b>git commit -am "pesan"</b></li>
 
             </ol>
+
             <h3>Bikin Branch</h3>
+            <ul>
+                <li><b>git branch namabranch</b></li>
+            </ul>
         </section>
+
 
     </main>
 
