@@ -81,6 +81,11 @@
                 <li>tapi bisa langsung 22nya <b>git commit -am "pesan"</b></li>
 
             </ol>
+
+            <h3>Bikin Merge</h3>
+            <ol>
+                <li>gatau</li>
+            </ol>
         </section>
 
     </main>
