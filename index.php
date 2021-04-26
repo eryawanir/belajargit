@@ -82,10 +82,17 @@
 
             </ol>
 
+
             <h3>Bikin Branch</h3>
             <ul>
                 <li><b>git branch namabranch</b></li>
             </ul>
+
+            <h3>Bikin Merge</h3>
+            <ol>
+                <li>gatau</li>
+            </ol>
+
         </section>
 
 
