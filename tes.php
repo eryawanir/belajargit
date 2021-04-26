@@ -16,7 +16,7 @@
 
         <figure class='full-width'>
             <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/3/hero.jpg">
-            <figcaption>Some text.</figcaption>
+            <figcaption>Some textfsdf.</figcaption>
         </figure>
 
         <p>Kielbasa bacon boudin swine cow tri-tip shankle. Ham hock flank landjaeger porchetta, strip steak t-bone short loin beef chuck tri-tip kielbasa bresaola prosciutto hamburger bacon. Cow t-bone bresaola, swine ham bacon shankle ground round. Turkey pancetta sirloin, beef spare ribs boudin biltong pork frankfurter meatloaf jerky meatball bacon porchetta jowl.</p>
