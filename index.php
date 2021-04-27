@@ -93,7 +93,7 @@
             <h3>Bikin Merge</h3>
             <ol>
                 <li>pindah ke main</li>
-                <li>git merge namabranch</li>
+                <li><b>git merge namabranch</b></li>
             </ol>
 
 
