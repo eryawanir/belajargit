@@ -109,6 +109,7 @@
             </ol>
 
             <h2>Git Remote</h2>
+            <h5>Dari Repo github</h5>
             <ul>
                 <li>cara clone <b>git clone namaalamathttp</b> </li>
                 <li>remote adalah repo inti</li>
@@ -116,9 +117,15 @@
                 <li>git status akan memberitahu status update antara branch lokal dan origin</li>
                 <li>jadi mungkin ada branch yg mendahului antara lokal dan origin</li>
                 <li>jika branch lokal mendahului kita push <b>git push</b> supaya sama(up todate)</li>
-
             </ul>
-
+            <h5>Dari repo lokal ke github</h5>
+            <ul>
+                <li>buat repo lokal</li>
+                <li>buat repo github dgn nama sama tapi kosongan</li>
+                <li>lalu <b>git remote add origin alamathttprepo</b></li>
+                <li><b>git branch -M main</b></li>
+                <li>dan <b>git push -u origin main</b></li>
+            </ul>
 
 
 
