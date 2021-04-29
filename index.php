@@ -84,6 +84,11 @@
 
             <h4>bikin graph</h4>
             <p> alias graph="git log --all --decorate --oneline --graph"</p>
+            <h4>konfigurasi</h4>
+            <ul>
+                <li>liat config <b>git config --list</b></li>
+                <li><b>git config --global/local</b> objek "..."</li>
+            </ul>
             <h3>Bikin Branch</h3>
             <ol>
                 <li><b>git branch namabranch</b></li>
@@ -95,6 +100,24 @@
                 <li>pindah ke main</li>
                 <li><b>git merge namabranch</b></li>
             </ol>
+
+            <h3>Bikin branch dari commit</h3>
+            <ol>
+                <li>checkout ke commit nya</li>
+                <li>buat branchnya</li>
+                <li>checkout ke branch baru</li>
+            </ol>
+
+            <h2>Git Remote</h2>
+            <ul>
+                <li>cara clone <b>git clone namaalamathttp</b> </li>
+                <li>remote adalah repo inti</li>
+                <li>cek nama remote <b>git remote</b> (tambah -v untuk lbh lengkap) biasanya origin </li>
+                <li>git status akan memberitahu status update antara branch lokal dan origin</li>
+                <li>jadi mungkin ada branch yg mendahului antara lokal dan origin</li>
+                <li>jika branch lokal mendahului kita push <b>git push</b> supaya sama(up todate)</li>
+
+            </ul>
 
 
 
