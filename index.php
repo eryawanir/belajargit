@@ -127,8 +127,17 @@
                 <li>dan <b>git push -u origin main</b></li>
             </ul>
 
-
-
+            <h5>Kalau ada 2 commit yg conflict, push akan ditolak</h5>
+            <p>Branch lokal akan lebih dulu 1 commit dari remote
+                Caranya :</p>
+            <ul>
+                <li>Gunakan git fetch untuk mengecek dgn yg diremote nanti akan terjadi diverged</li>
+                <li>Maka akan terjadi cabang</li>
+                <li>Pull dulu yg ada diremote</li>
+                <li>Nanti akan ada merge conflict</li>
+                <li>Lalu commit</li>
+                <li>Lalu push</li>
+            </ul>
         </section>
 
 
